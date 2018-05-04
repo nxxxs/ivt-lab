@@ -32,6 +32,7 @@ public class GT4500 implements SpaceShip {
   * 	ALL:	tries to fire both of the torpedo stores.
   *
   * @return whether at least one torpedo was fired successfully
+  *** EXTRA komment ide neked, kicsi bogár.
   */
   @Override
   public boolean fireTorpedo(FiringMode firingMode) {
